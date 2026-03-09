@@ -1,0 +1,13 @@
+# CodeRabbit AI review – https://docs.coderabbit.com
+language: en
+profile: chill
+
+reviews:
+  path_filters:
+    - "**.ts"
+    - "**.tsx"
+    - "**.js"
+    - "**.jsx"
+
+chat:
+  auto_reply: true
